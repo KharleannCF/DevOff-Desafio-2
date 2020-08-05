@@ -1,0 +1,15 @@
+{
+  "name": "DevOff-Desafio-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/KharleannCF/DevOff-Desafio-2.git",
+  "author": "Kharleann Cabrera <kharleann.cabrera@eyss.io>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "http": "^0.0.1-security",
+    "nodemon": "^2.0.4"
+  }
+}
